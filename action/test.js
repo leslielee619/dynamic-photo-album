@@ -1,8 +1,4 @@
 window.onload = function(){
-	// 模拟鼠标点击
-	var div0 = document.getElementById("div0");
-	div0.click();
-	
 	// 获取audio标签
 	var div1 = document.getElementById("div1");
 	var div2 = document.getElementById("div2");
