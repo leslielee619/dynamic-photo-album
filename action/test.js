@@ -1,4 +1,9 @@
 window.onload = function(){
+	// 模拟鼠标点击
+	var div = document.getELementsByTagName("h1")[0];
+	div.click();
+	
+	// 获取audio标签
 	var div1 = document.getElementById("div1");
 	var div2 = document.getElementById("div2");
 	var div3 = document.getElementById("div3");
